@@ -1,0 +1,10 @@
+#Open the video example code:
+python main.py --input data/videos/video1.mp4
+python main.py --input data/videos/video2.mp4
+
+#Normal Open Camera code:
+python main.py
+
+#resim
+python main.py --input data/test_images/img1.jpg
+python main.py --input data/test_images/img2.jpg
